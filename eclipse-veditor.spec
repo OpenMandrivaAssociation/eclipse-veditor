@@ -4,7 +4,7 @@
 
 Name:           eclipse-%{pkgname}
 Version:        0.6.3
-Release:        5
+Release:        7
 Summary:        Eclipse-based Verilog/VHDL plugin
 
 Group:          Development/Java
