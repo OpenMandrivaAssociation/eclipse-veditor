@@ -9,7 +9,7 @@ Summary:        Eclipse-based Verilog/VHDL plugin
 
 Group:          Development/Java
 License:        EPL
-URL:            http://veditor.sourceforge.net/
+URL:            https://veditor.sourceforge.net/
 
 Source0:        http://downloads.sourceforge.net/sourceforge/%{pkgname}/%{pkgname}_0_6_3.tar.bz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
